@@ -12,7 +12,7 @@
 /*
 Macro to determine the type of the keypad
 Range:  KPD_u8_PULL_UP
-		KPD_u8_PULL_DOWN
+		    KPD_u8_PULL_DOWN
 */
 #define KPD_u8_TYPE			KPD_u8_PULL_UP
 

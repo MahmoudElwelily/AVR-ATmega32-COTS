@@ -25,8 +25,8 @@
 #define DIO_u8_PORT_D   (u8)3
 
 /* Assignment Macros for pins */
-#define DIO_u8_PIN_HIGH   (u8)5
-#define DIO_u8_PIN_LOW    (u8)55
+#define DIO_u8_PIN_HIGH   (u8)1
+#define DIO_u8_PIN_LOW    (u8)0
 
 /* DIO Pins Macros */
 #define DIO_u8_PIN0     (u8)0 		/*PINA0*/

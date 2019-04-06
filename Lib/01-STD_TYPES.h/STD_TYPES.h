@@ -59,6 +59,8 @@ typedef union {
 #define ERROR_NOK (u8)1
 #define ERROR_OK  (u8)0
 
+#define UNSIGNED_MIN 0
+
 /* Macro for NULL */
 #define NULL ((void*)0)
 
